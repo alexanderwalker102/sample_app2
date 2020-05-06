@@ -11,6 +11,7 @@ gem 'uglifier', '4.2.0'
 gem 'coffee-rails', '5.0.0'
 gem 'jquery-rails', '4.3.5'
 gem 'sdoc', '1.1.0', group: :doc
+gem 'bcrypt', '3.1.13'
 
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
